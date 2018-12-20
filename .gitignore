@@ -1,0 +1,4 @@
+course_project/train_data/*
+course_project/testdata
+.idea/*
+tmp/
